@@ -5,4 +5,4 @@
 ## 2024年度
 
 - 授業のページ: https://www-tlab.math.ryukoku.ac.jp/wiki/?AdvML/2024
-- GitHub: 
+- GitHub: https://github.com/takatakamanbou/AdvML/tree/2024
